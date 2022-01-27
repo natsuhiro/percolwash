@@ -21,6 +21,7 @@
 
 - Matches of three or more identical symbols (two at top line) vertically, horizontally and diagonally disappear.
 - The symbol with a blank top also disappears.
+- `X` is an obstacle.
 
 ##  Keys
 Action|Key
