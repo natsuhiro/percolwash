@@ -25,12 +25,12 @@
 ##  Keys
 Action|Key
 --------------|-------------------
-Move left:|     KEY_LEFT, 'h'
-Move right:|    KEY_RIGHT, 'l'
-Shoot:|         KEY_UP, SPACE, 'k'
-Exchange next:| KEY_DOWN, 'j'
-New game:|      'n'
-Quit:|          'q'
+Move left:|     `KEY_LEFT, h`
+Move right:|    `KEY_RIGHT, l`
+Shoot:|         `KEY_UP, SPACE, k`
+Exchange next:| `KEY_DOWN, j`
+New game:|      `n`
+Quit:|          `q`
 
 ## Install
      > git clone https://github.com/natsuhiro/percolwash.git
