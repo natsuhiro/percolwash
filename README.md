@@ -19,6 +19,8 @@
      $         #          |
      └score:0-----limit: 5┘
 
+- Matches of three or more identical symbols (two at top line) vertically, horizontally and diagonally disappear.
+- The symbol with a blank top also disappears.
 
 ## Install
      > git clone https://github.com/natsuhiro/percolwash.git
