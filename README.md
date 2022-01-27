@@ -23,12 +23,14 @@
 - The symbol with a blank top also disappears.
 
 ##  Keys
-|Move left:|     KEY_LEFT, 'h'
-|Move right:|    KEY_RIGHT, 'l'
-|Shoot:|         KEY_UP, SPACE, 'k'
-|Exchange next:| KEY_DOWN, 'j'
-|New game:|      'n'
-|Quit:|          'q'
+Action|Key
+--------------|-------------------
+Move left:|     KEY_LEFT, 'h'
+Move right:|    KEY_RIGHT, 'l'
+Shoot:|         KEY_UP, SPACE, 'k'
+Exchange next:| KEY_DOWN, 'j'
+New game:|      'n'
+Quit:|          'q'
 
 ## Install
      > git clone https://github.com/natsuhiro/percolwash.git
