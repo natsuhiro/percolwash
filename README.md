@@ -1,24 +1,6 @@
 # percolwash - ncurses-based shoot-and-drop game
 
-
-     ┌------stage:1-------┐
-     |&$&&%&&%$#&#$&$#$&$%|
-     |%&%#XX%%$#$X$$%&#%$#|
-     |#&&&&&%|%X$%%$#&$##X|
-     |$$%##&&| X$&#X$X###X|
-     |%$XX$#&|  $&XXX%X&#X|
-     |$X%#$&&|  X%X#$X%X&$|
-     |&&&&%&X|  X XX$%$X%%|
-     | %##$$&|    &#&X&X%$|
-     | # #%%%|    XX$#$%X#|
-     |       |            |
-     n       |            |
-     e       |            |
-     x       |            |
-     t       |            |
-     %       %            |
-     └score:121---limit: 4┘
-
+<img width="156" alt="pw_ss" src="https://user-images.githubusercontent.com/81680557/151484808-a34a7201-7f92-43e2-bbbb-928b67c6d244.png">
 
 - Matches of three or more identical symbols (two at top line) vertically, horizontally and diagonally disappear.
 - The symbol with a blank top also disappears.
@@ -41,4 +23,3 @@ Quit|          `q`
      > ./configure
      > make
      > sudo make install
-
